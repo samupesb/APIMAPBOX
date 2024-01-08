@@ -1,0 +1,123 @@
+{
+    "estruturaalbuns": [
+        {
+            "Identificador do album": "001",
+            "Título do álbum": "Mineirão",
+            "Descrição do album": "Estádio Governador Magalhães Pinto, casa do futebol de Minas Gerais",
+            "Localização geográfica do álbum": "-43.971276, -19.866207",
+            "Data do álbum": "01/12/2021",
+            "Url da imagem de capa do álbum": "https://musicaecinema.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-23-at-08.30.17.jpeg"
+        },
+        {
+            "Identificador do album": "002",
+            "Título do álbum": "Bh Shopping",
+            "Descrição do album": "Um dos principais shoppings de BH",
+            "Localização geográfica do álbum": "-43.945152, -19.973951",
+            "Data do álbum": "03/06/2021",
+            "Url da imagem de capa do álbum": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ca/e5/16/bh-shopping.jpg?w=1200&h=-1&s=1"
+        },
+        {
+            "Identificador do album": "003",
+            "Título do álbum": "Mercado central",
+            "Descrição do album": "Onde você encontra tudo em BH",
+            "Localização geográfica do álbum": " -43.94297, -19.922617",
+            "Data do álbum": "08/03/2021",
+            "Url da imagem de capa do álbum": "https://s2-g1.glbimg.com/fkddMYChUgoDLnzvumj3TYUHRzk=/0x0:1024x768/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/J/b/yexjAqRGqadAgaqVuhnA/mercadocentral3.jpg"
+        },
+        {
+            "Identificador do album": "004",
+            "Título do álbum": "Igrejinha da Pampulha",
+            "Descrição do album": "Uma igrejinha encantadora na região da Pampulha",
+            "Localização geográfica do álbum": "-43.978881, -19.858638",
+            "Data do álbum": "15/05/2022",
+            "Url da imagem de capa do álbum": "https://imgmd.net/images/v1/guia/1686065/igreja-da-pampulha-sao-francisco-de-assis.jpg"
+        },
+        {
+            "Identificador do album": "005",
+            "Título do álbum": "Estádio Independência",
+            "Descrição do album": "O estádio Independência, lar de grandes emoções esportivas",
+            "Localização geográfica do álbum": "43.917738, -19.908474",
+            "Data do álbum": "23/08/2022",
+            "Url da imagem de capa do álbum": "https://barrosoemdia.com.br/wp-content/uploads/2023/09/estadio-independencia.jpeg"
+        },
+        {
+            "Identificador do album": "006",
+            "Título do álbum": "Jardim Botânico",
+            "Descrição do album": "Explorando a diversidade botânica no Jardim Botânico de Belo Horizonte",
+            "Localização geográfica do álbum": "-44.010158, -19.860322",
+            "Data do álbum": "19/01/2023",
+            "Url da imagem de capa do álbum": "https://www.ktmengenharia.com.br/ktm-engenharia/wp-content/uploads/sites/2/2017/06/jardim-botanico-bh.jpg"
+        },
+        {
+            "Identificador do album": "007",
+            "Título do álbum": "Praça da Liberdade",
+            "Descrição do album": "Um local histórico e cultural no coração de Belo Horizonte",
+            "Localização geográfica do álbum": "-43.9379572, -19.9341685",
+            "Data do álbum": "02/04/2023",
+            "Url da imagem de capa do álbum": "https://viverbem.unimedbh.com.br/wp-content/uploads/2023/03/GettyImages-1448225971-1.jpg"
+        },
+        {
+            "Identificador do album": "008",
+            "Título do álbum": "PUC Minas Barreiro",
+            "Descrição do album": "Explorando o campus da PUC Minas na região do Barreiro",
+            "Localização geográfica do álbum": "-44.026, -19.9769",
+            "Data do álbum": "10/10/2023",
+            "Url da imagem de capa do álbum": "https://revista.pucminas.br/wp-content/uploads/elementor/thumbs/FOTO-1-PRINCIPAL-5-1024x594-1-pgmyxoar9vf0811l0b4l0kg4ecatq6hssca88w4080.jpg"
+        },
+        {
+            "Identificador do album": "009",
+            "Título do álbum": "Torre Alienígena (Belvedere)",
+            "Descrição do album": "Uma misteriosa torre alienígena situada perto do bairro Belvedere",
+            "Localização geográfica do álbum": "-43.947392, -19.986646",
+            "Data do álbum": "05/10/2023",
+            "Url da imagem de capa do álbum": "https://live.staticflickr.com/58/195744510_9911da9a72_b.jpg"
+        },
+        {
+            "Identificador do album": "010",
+            "Título do álbum": "Via Shopping Barreiro",
+            "Descrição do album": "Compras e entretenimento no Via Shopping Barreiro",
+            "Localização geográfica do álbum": "-44.02193800, -19.97480900 ",
+            "Data do álbum": "22/01/2021",
+            "Url da imagem de capa do álbum": "https://portalbelohorizonte.com.br/sites/default/files/arquivos/compras-e-moda/2021-04/202006021107593.jpg"
+        },
+        {
+            "Identificador do album": "011",
+            "Título do álbum": "Pista de Skate Barreiro",
+            "Descrição do album": "A adrenalina e as manobras na pista de skate do Barreiro",
+            "Localização geográfica do álbum": "-44.0240167, -19.9765297",
+            "Data do álbum": "08/03/2022",
+            "Url da imagem de capa do álbum": "https://static.wixstatic.com/media/d4e86f_b8b1ace89bb74de8aac22096a613b6a3.jpg/v1/fill/w_560,h_280,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/d4e86f_b8b1ace89bb74de8aac22096a613b6a3.jpg"
+        },
+        {
+            "Identificador do album": "012",
+            "Título do álbum": "Parque Guanabara",
+            "Descrição do album": "Diversão e natureza se encontram no Parque Guanabara",
+            "Localização geográfica do álbum": "-43.978642, -19.859726",
+            "Data do álbum": "15/06/2023",
+            "Url da imagem de capa do álbum": "https://pelasestradasdeminas.com.br/wp-content/uploads/2022/12/Parque-Guanabara-Belo-Horizonte-MG.jpg"
+        },
+        {
+            "Identificador do album": "013",
+            "Título do álbum": "Palácio das Artes",
+            "Descrição do album": "Explorando o cenário cultural do Palácio das Artes em Savassi",
+            "Localização geográfica do álbum": "-43.934365, -19.925327",
+            "Data do álbum": "18/05/2023",
+            "Url da imagem de capa do álbum": "https://www.eventim.com.br/obj/media/BR-eventim/teaser/venue/984x333/2016/palaciodasartes-venue.jpg"
+        }
+    ],
+    "estruturafotos":[
+        {
+        "Identificador da foto": "001 MINEIRÃO",
+        "URL da imagem":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4655228bf9000a0f/643dbdd91dbb3657dcc1d53c/Mineirao1_(1).jpg?auto=webp&format=pjpg&width=3840&quality=60",
+        "Descrição da imagem":"O Estádio Governador Magalhães Pinto, mais conhecido como Mineirão, é um estádio de futebol localizado em Belo Horizonte, Minas Gerais, onde o Atlético Mineiro, Cruzeiro, América e outros times mineiros realizam seus jogos",
+        "Identificador do álbum ao qual a foto faz parte ": "Álbum mineirão"
+        }
+    ],
+    "estruturadestaques":[
+        {
+            "Identificador do destaque": "Destaque MINEIRÃO",
+          "Identificado do álbum em destaque": "Álbum 001 Mineirão",
+          "Texto para destaque":"Essa são as melhores fotos do nosso estádio!"
+        }
+    ]
+}
